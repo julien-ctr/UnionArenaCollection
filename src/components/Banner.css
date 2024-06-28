@@ -1,6 +1,6 @@
 .App-header {
     background-color: #A70000;
-    height: 150px;
+    height: 125px;
     display: flex;
     flex-direction:row;
     align-items: center;
@@ -54,3 +54,7 @@ nav a {
     justify-content: center;
     align-items: center;
 }
+
+.title > img {
+    height: 80%;
+} 
