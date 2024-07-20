@@ -19,6 +19,7 @@
 .empty-bar {
     background-color: #D9D9D9;
     width: 90%;
+    overflow: hidden;
 }
 
 .filled-bar {
