@@ -1,11 +1,11 @@
 .App-header {
     background-color: #A70000;
-    height: 125px;
+    height: 10dvh;
     display: flex;
     flex-direction:row;
     align-items: center;
     justify-content: center;
-    font-size: calc(10px + 2vmin);
+    font-size: 1rem;
     color: white;
 }
 
